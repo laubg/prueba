@@ -1,3 +1,35 @@
 laurabautistg@gmail.com
 
 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
+
+
+git remote set-url origin https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git
+
+git remote add origin https://TOKEN@github.com/USUARIO-QUE-CREO-EL-REPOSITORIO/NOMBRE-DEL-PROYECTO.git
+
+git remote -v  para corroborar que se cargo la url
+flecha->para ver comandos previos
+
+status- en rojo archivos no traqueados
+git add . elpunto hace que agregue tooodos los archivos en el stage
+git add <nombreArchivo>  borrar git rm --cached <file>
+
+git commit -m "mi 1er commit"
+
+git log ->para ver el historial de commits
+
+git config user.name "
+: Q+Enter (para salir de ahì)
+
+si tengo un archivo modificado no me va a permitr hacer el push
+git push--todas ramas locales actualian ramas remotas
+git push
+
+solo podemos eliminar la rama que nosotros creamos
+tb autocompleta algunas cosas?
+git commit -a -m "" permite agregar y subir todos los archivos al mismo tiempo al stage 
+
+no se puede hacer un comando de pull request, sólo se hace desde git
+
+
+
