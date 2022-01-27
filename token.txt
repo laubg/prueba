@@ -31,5 +31,8 @@ git commit -a -m "" permite agregar y subir todos los archivos al mismo tiempo a
 
 no se puede hacer un comando de pull request, sólo se hace desde git
 
+es add, después el commit y al ultimo el push
+git push origen main
+o sea copia ese código pero en lugar de principal pones main
 
 
